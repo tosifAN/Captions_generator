@@ -1,0 +1,9 @@
+google-cloud-speech
+transformers
+opencv-python
+ffmpeg-python
+SpeechRecognition
+pydub
+tensorflow
+moviepy
+streamlit
